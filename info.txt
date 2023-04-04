@@ -1,0 +1,4 @@
+operating system: CentOS Linux 7 (Core)
+Hostname: poctest.local
+Available Ram: 1.6G
+Disk size: 46G

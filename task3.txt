@@ -1,0 +1,8 @@
+echo "Please enter a path to check :"
+read path
+if [ -e "$path"]; then
+   echo "The path $path exists."
+else
+    echo "The path $path  does not exit."
+fi
+
