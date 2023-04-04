@@ -261,3 +261,38 @@ systemctl restart jenkins
 systemctl status jenkins
 pwd
 vi solartis.sh
+pwd
+cd tmp
+sudo yum update
+sudo yum install git
+git --version
+git init
+git status
+git add .
+git status
+git commit -m "add solartis.sh"
+git add solartis.sh
+git commit -m "add solartis.sh"
+git remote add origin https://github.com/ADMINBALA/Newone.git
+git push -u origin master
+git push -u origin master 
+git push -u origin master
+git remote add origin https://github.com/ADMINBALA/Newone.git
+git push -u origin master
+git remote add origin https://github.com/ADMINBALA/Newone.git
+git push -u origin master
+git remote add origin https://github.com/ADMINBALA/Newone
+git push -u origin master
+git remote add origin https://github.com/ADMINBALA/Newone.git
+git push -u origin master
+git -version
+git -V
+git --version
+route -n
+ip a
+ifdown enp0s8
+ip a
+ping 8.8.8.8
+history 
+git push -u origin master
+whereis git
