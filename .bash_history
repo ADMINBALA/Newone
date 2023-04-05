@@ -297,3 +297,21 @@ history
 git push -u origin master
 whereis git
 git push -u origin master
+pwd
+locate git
+whereis maven
+whereis git
+git init
+git status
+git add
+git add .
+git status
+git commit -m "add solartis.sh"
+git add solartis.sh
+git remote add origin https://github.com/ADMINBALA/Newone.git
+git push -u origin master
+systemctl restart jenkins
+systemctl status jenkins
+systemctl status jenkins -l
+init 6
+pwd
