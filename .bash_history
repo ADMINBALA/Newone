@@ -296,3 +296,4 @@ ping 8.8.8.8
 history 
 git push -u origin master
 whereis git
+git push -u origin master
