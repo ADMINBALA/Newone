@@ -315,3 +315,53 @@ systemctl status jenkins
 systemctl status jenkins -l
 init 6
 pwd
+git clone https://github.com/balakumaran-m/test.git
+ll
+cd test
+ll
+vim sample.txt
+vi sample.txt
+ll
+git add .
+git commit -m "file"
+git push origin main
+git --version
+yum install git
+git --version
+git push
+git config --global credential.helper
+ssh-keygen -t ed25519 -C "balakumaranm744@gmail.com"
+$ eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+git push -u origin main
+ll
+vi test.txt
+ll
+git add test.txt
+git commit -m "new"
+git push
+git push origin main
+git push -u origin main
+git status
+history
+ll
+history
+ll
+mkdir sample
+cd sample/
+ll
+git clone https://github.com/balakumaran-m/test.git
+ll
+cd test/
+ll
+vi bbq.txt
+ll
+git add bbq.txt
+git commit -m "new"
+git push origin main
+ll
+cd ..
+ll
+cd ..
+ll

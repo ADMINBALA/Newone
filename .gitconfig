@@ -1,3 +1,6 @@
 [user]
-	name = balakumaran
+	name = balakumaran-m
 	email = balakumaranm744@gmail.com
+	password = Balakumaran230899
+[core]
+	editor = vi
